@@ -1,2 +1,1 @@
-# officialsite
-高山科技官网
+the official website of gaoshan tech.
